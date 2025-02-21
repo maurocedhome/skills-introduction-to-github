@@ -1,0 +1,271 @@
+Infolog for job Production - End - 202501 (5647074276)
+Infolog for task Production - End - 202501 (5653643436)
+Production - End
+Production: PR-00057066
+Calculating production
+Product 14299791 is on hold for Stock transactions.
+Product 14299791 is on hold for Stock transactions.
+Update has been cancelled.
+Update has been cancelled.
+Production: PR-00057067
+Calculating production
+Product 14299791 is on hold for Stock transactions.
+Product 14299791 is on hold for Stock transactions.
+Update has been cancelled.
+Update has been cancelled.
+Production: PR-00057072
+Calculating production
+Product 14299841 is on hold for Stock transactions.
+Product 14299841 is on hold for Stock transactions.
+Update has been cancelled.
+Update has been cancelled.
+Production: PR-00056743
+Calculating production
+Product 14299801 is on hold for Stock transactions.
+Product 14299801 is on hold for Stock transactions.
+Update has been cancelled.
+Update has been cancelled.
+Production: PR-00056646
+Calculating production
+Product 14299843 is on hold for Stock transactions.
+Product 14299843 is on hold for Stock transactions.
+Update has been cancelled.
+Update has been cancelled.
+Production: PR-00056647
+Calculating production
+Product 14300557 is on hold for Stock transactions.
+Product 14300557 is on hold for Stock transactions.
+Update has been cancelled.
+Update has been cancelled.
+Production: PR-00056648
+Calculating production
+Product 14299802 is on hold for Stock transactions.
+Product 14299802 is on hold for Stock transactions.
+Update has been cancelled.
+Update has been cancelled.
+Production: PR-00056649
+Calculating production
+Product 14269617 is on hold for Stock transactions.
+Product 14269617 is on hold for Stock transactions.
+Update has been cancelled.
+Update has been cancelled.
+Production: PR-00056650
+Calculating production
+Product 14299797 is on hold for Stock transactions.
+Product 14299797 is on hold for Stock transactions.
+Update has been cancelled.
+Update has been cancelled.
+Production: PR-00061931
+Calculating production
+Product 14358715 is on hold for Stock transactions.
+Product 14358715 is on hold for Stock transactions.
+Update has been cancelled.
+Update has been cancelled.
+Production: PR-00058925
+Calculating production
+Product 14299787 is on hold for Stock transactions.
+Product 14299787 is on hold for Stock transactions.
+Update has been cancelled.
+Update has been cancelled.
+Production: PR-00057948
+Calculating production
+Product 14299787 is on hold for Stock transactions.
+Product 14299787 is on hold for Stock transactions.
+Update has been cancelled.
+Update has been cancelled.
+Production: PR-00057965
+Calculating production
+Product 14269617 is on hold for Stock transactions.
+Product 14269617 is on hold for Stock transactions.
+Update has been cancelled.
+Update has been cancelled.
+Production: PR-00058924
+Calculating production
+Product 14299844 is on hold for Stock transactions.
+Product 14299844 is on hold for Stock transactions.
+Update has been cancelled.
+Update has been cancelled.
+Production: PR-00057063
+Calculating production
+Product 14300541 is on hold for Stock transactions.
+Product 14300541 is on hold for Stock transactions.
+Update has been cancelled.
+Update has been cancelled.
+Production: PR-00057064
+Calculating production
+Product 14300550 is on hold for Stock transactions.
+Product 14300550 is on hold for Stock transactions.
+Update has been cancelled.
+Update has been cancelled.
+Production: PR-00057065
+Calculating production
+Product 14299787 is on hold for Stock transactions.
+Product 14299787 is on hold for Stock transactions.
+Update has been cancelled.
+Update has been cancelled.
+Production: PR-00057073
+Calculating production
+Product 14299849 is on hold for Stock transactions.
+Product 14299849 is on hold for Stock transactions.
+Update has been cancelled.
+Update has been cancelled.
+Production: PR-00057074
+Calculating production
+Product 14299849 is on hold for Stock transactions.
+Product 14299849 is on hold for Stock transactions.
+Update has been cancelled.
+Update has been cancelled.
+Production: PR-00057075
+Calculating production
+Product 14299853 is on hold for Stock transactions.
+Product 14299853 is on hold for Stock transactions.
+Update has been cancelled.
+Update has been cancelled.
+Production: PR-00057076
+Calculating production
+Product 14269617 is on hold for Stock transactions.
+Product 14269617 is on hold for Stock transactions.
+Update has been cancelled.
+Update has been cancelled.
+Production: PR-00057077
+Calculating production
+Product 14269617 is on hold for Stock transactions.
+Product 14269617 is on hold for Stock transactions.
+Update has been cancelled.
+Update has been cancelled.
+Production: PR-00057069
+Calculating production
+Product 14299801 is on hold for Stock transactions.
+Product 14299801 is on hold for Stock transactions.
+Update has been cancelled.
+Update has been cancelled.
+Production: PR-00057070
+Calculating production
+Product 14299803 is on hold for Stock transactions.
+Product 14299803 is on hold for Stock transactions.
+Update has been cancelled.
+Update has been cancelled.
+Production: PR-00057071
+Calculating production
+Product 14299837 is on hold for Stock transactions.
+Product 14299837 is on hold for Stock transactions.
+Update has been cancelled.
+Update has been cancelled.
+Production: PR-00059329
+Calculating production
+Product 14299795 is on hold for Stock transactions.
+Product 14299795 is on hold for Stock transactions.
+Update has been cancelled.
+Update has been cancelled.
+Production: PR-00060228
+Calculating production
+Product 14300557 is on hold for Stock transactions.
+Product 14300557 is on hold for Stock transactions.
+Update has been cancelled.
+Update has been cancelled.
+Production: PR-00060231
+Calculating production
+Product 14299855 is on hold for Stock transactions.
+Product 14299855 is on hold for Stock transactions.
+Update has been cancelled.
+Update has been cancelled.
+Production: PR-00060232
+Calculating production
+Product 14299843 is on hold for Stock transactions.
+Product 14299843 is on hold for Stock transactions.
+Update has been cancelled.
+Update has been cancelled.
+Production: PR-00060233
+Calculating production
+Product 14299797 is on hold for Stock transactions.
+Product 14299797 is on hold for Stock transactions.
+Update has been cancelled.
+Update has been cancelled.
+Production: PR-00055060
+Calculating production
+Product 14299795 is on hold for Stock transactions.
+Product 14299795 is on hold for Stock transactions.
+Update has been cancelled.
+Update has been cancelled.
+Production: PR-00059558
+Calculating production
+Product 14300545 is on hold for Stock transactions.
+Product 14300545 is on hold for Stock transactions.
+Update has been cancelled.
+Update has been cancelled.
+Production: PR-00061683
+Calculating production
+Product 14299797 is on hold for Stock transactions.
+Product 14299797 is on hold for Stock transactions.
+Update has been cancelled.
+Update has been cancelled.
+Production: PR-00061684
+Calculating production
+Product 14299848 is on hold for Stock transactions.
+Product 14299848 is on hold for Stock transactions.
+Update has been cancelled.
+Update has been cancelled.
+Production: PR-00061697
+Calculating production
+Product 14269617 is on hold for Stock transactions.
+Product 14269617 is on hold for Stock transactions.
+Update has been cancelled.
+Update has been cancelled.
+Production: PR-00060834
+Calculating production
+Product 14299787 is on hold for Stock transactions.
+Product 14299787 is on hold for Stock transactions.
+Update has been cancelled.
+Update has been cancelled.
+Production: PR-00063385
+Calculating production
+Product 13690752 is on hold for Stock transactions.
+Product 13690752 is on hold for Stock transactions.
+Update has been cancelled.
+Update has been cancelled.
+Production: PR-00063386
+Calculating production
+Product 13690753 is on hold for Stock transactions.
+Product 13690753 is on hold for Stock transactions.
+Update has been cancelled.
+Update has been cancelled.
+Production: PR-00063387
+Calculating production
+Product 13690754 is on hold for Stock transactions.
+Product 13690754 is on hold for Stock transactions.
+Update has been cancelled.
+Update has been cancelled.
+Production: PR-00063390
+Calculating production
+Product 13690761 is on hold for Stock transactions.
+Product 13690761 is on hold for Stock transactions.
+Update has been cancelled.
+Update has been cancelled.
+Production: PR-00071611
+Missing report as finished quantity.
+Update has been cancelled.
+Production: PR-00072878
+Calculating BOM consumption
+Product 13718439 is on hold for Stock transactions.
+Product 13718439 is on hold for Stock transactions.
+Update has been cancelled.
+Update has been cancelled.
+Production: PR-00076936
+Calculating BOM consumption
+Product 14391075 is on hold for Stock transactions.
+Product 14391075 is on hold for Stock transactions.
+Update has been cancelled.
+Update has been cancelled.
+Production: PR-00077186
+Calculating BOM consumption
+Product 14391075 is on hold for Stock transactions.
+Product 14391075 is on hold for Stock transactions.
+Update has been cancelled.
+Update has been cancelled.
+Production: PR-00075192
+Calculating BOM consumption
+Product 13718439 is on hold for Stock transactions.
+Product 13718439 is on hold for Stock transactions.
+Update has been cancelled.
+Update has been cancelled.
+End of task log
